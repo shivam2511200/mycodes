@@ -1,2 +1,4 @@
 # mycodes
-this repostry saved my project codes 
+
+Hello my name is Shivam
+This Repositorie saved my project codes
